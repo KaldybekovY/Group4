@@ -53,7 +53,7 @@ public class FindBrokenLinks {
             }
 
         } catch (Exception e) {
-            System.out.println("Exception here");
+            System.out.println("Exception here - please check");
         }
     }
 }
